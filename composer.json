@@ -1,0 +1,21 @@
+{
+  "name": "cocozq/jd-union-sdk",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "cocozq",
+      "email": "nk_mobile@126.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "cocozq/curl-swoole": "^1.0"
+  },
+  "autoload": {
+    "classmap": [
+    ],
+    "psr-4": {
+      "JdMediaSdk\\": "src"
+    }
+  }
+}
