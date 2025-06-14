@@ -9,7 +9,7 @@
 namespace JdMediaSdk\Tools;
 
 use JdMediaSdk\JdFatory;
-use yumufeng\curl\Curl;
+use cocozq\curl\Curl;
 
 class JdGateWay
 {
