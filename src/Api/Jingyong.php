@@ -5,7 +5,7 @@ namespace JdMediaSdk\Api;
 
 
 use JdMediaSdk\Tools\JdGateWay;
-use yumufeng\curl\Curl;
+use cocozq\curl\Curl;
 
 class Jingyong extends JdGateWay
 {
